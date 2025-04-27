@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chenyuan Chu/Personal Homepage"
+title                    : "Chenyuan Chu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chenyuan Chu"
 description              : &description "a third year undergraduate from Peking University"
