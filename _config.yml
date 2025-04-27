@@ -22,7 +22,7 @@ repository               : "FileTransferrr/ChenyuanChu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo.png"
   name             : "Chenyuan Chu"
   pronouns         : "He/him"  
   bio              : "Peking University"
