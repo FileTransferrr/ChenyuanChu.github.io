@@ -12,6 +12,6 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 I am very fortunate to be advised by Prof.Xiyuan Tang of [PRIME Lab](https://tangresearch.top) from [School of Integrated Circuit](https://ic.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Chenyuan's CV](../assets/resume.pdf)
+You can find my CV [here](../assets/resume.pdf)
 
 [Github](https://github.com//FileTransferrr)
