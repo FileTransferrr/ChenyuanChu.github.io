@@ -14,4 +14,4 @@ I am very fortunate to be advised by Prof.Xiyuan Tang of [PRIME Lab](https://tan
 
 You can find my CV [here](../assets/resume.pdf)
 
-[Github](https://github.com//FileTransferrr)
+[Email](2200012860@stu.pku.edu.cn)/[GitHub](https://github.com//FileTransferrr)
